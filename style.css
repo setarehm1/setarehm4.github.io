@@ -1,0 +1,122 @@
+
+
+/* Basic styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff; /* Set background color to white */
+}
+
+header, nav, main, footer {
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Pink section */
+.pink-section {
+    background-color: #ffcccc; /* Pink background color */
+    color: #fff; /* White text color */
+    text-align: center; /* Center align text */
+}
+
+/* White section */
+.white-section {
+    background-color: #fff; /* White background color */
+    color: #333; /* Dark text color */
+    text-align: center; /* Center align text */
+}
+
+/* Content inside sections */
+.content {
+    padding: 40px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+    text-align: center; /* Center align text */
+    padding: 10px 0;
+}
+
+.cloud-1{
+    position: absolute;
+    right: 10%;
+    }
+    .cloud-2{
+        bottom: 7%; 
+        left: 90%;
+        }
+            
+h1{
+
+    font-family:fantasy;
+    font-size: 70px;
+    text-align: center
+
+     }
+
+     h2{
+     font-family:initial;
+     font-size: 35px; ;
+     text-align: center;
+
+     }
+
+     .cat{ 
+        size-adjust: 59px;
+        right: 90%;
+        top: 50%
+
+
+     }
+.jumbotron{
+text-align: center;
+color:white;
+font-family:fantasy;
+background-image: linear-gradient(#ffcccc);
+background-repeat: no-repeat, no-repeat;
+color:white !important;
+font-family:fantasy;
+
+
+
+}
+
+.baking{
+
+    position: absolute;
+    right: 35%;
+    top: 67%;
+    width: 180px;
+    height:180px;
+   
+}
+
+.pencil{  
+    position: absolute;
+    right: 20%;
+    top: 87%;
+    width: 200px;
+    height:130px;
+
+}
+
+ul{
+
+align-items: center;
+
+
+}
+
+/* Additional styles as needed */
